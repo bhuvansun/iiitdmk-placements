@@ -1,0 +1,180 @@
+,Roll No,Name,Company,Offer
+0,edm18b023,Kalisapudi V S Srikarthik,ABB,8.5
+1,msm18b012,Dhrasan Skanda P,Accenture,9.9
+2,msm18b016,Ganta Madhumita Sai Srija,Accenture,9.9
+3,msm18b050,Sriram S,Accenture,9.9
+4,msm18b049,Shedin Joe Solomon Dhinakar,ADF,7.5
+5,edm18b024,Karanam Sreedha Sai ,Agnikul Cosmos,9.0
+6,mdm18b032,Parri Ashok Kumar,ATAI Labs,7.8
+7,coe18b009,Sai Sathvik Borra,Capgemini,7.5
+8,coe18b010,C Hemanth,Capgemini,7.5
+9,coe18b018,G V Anurag,Capgemini,7.5
+10,coe18b019,Gadi Jaya Sathwika,Capgemini,7.5
+11,coe18b030,Kommuru Jaswanth Reddy,Capgemini,7.5
+12,coe18b037,M K Nanda Sai Kishore,Capgemini,7.5
+13,coe18b052,Sushal Devasari,Capgemini,7.5
+14,edm18b007,Bhogi Karthik,Capgemini,7.5
+15,edm18b013,Duvvuru Venkatakrishna Reddy,Capgemini,7.5
+16,edm18b019,Guniganti Murali Krishna,Capgemini,7.5
+17,edm18b019,Guniganti Murali Krishna,Capgemini,7.5
+18,edm18b025,Shraddhanandh Karnekanti,Capgemini,7.5
+19,edm18b028,Khatravath Rohin Kumar,Capgemini,7.5
+20,edm18b029,Kommi Ramya,Capgemini,7.5
+21,edm18b030,Kota Bholanath,Capgemini,7.5
+22,edm18b031,Lokesh Jonnadula,Capgemini,7.5
+23,edm18b033,Manoj Kumar Jeeru,Capgemini,7.5
+24,edm18b047,Tulasi Singampalli,Capgemini,7.5
+25,edm18b049,Solipeta Bhanu Teja,Capgemini,7.5
+26,edm18b059,Ujwal Krishna Nelluri,Capgemini,7.5
+27,mdm18b001,A S Kavin,Capgemini,7.5
+28,mdm18b003,Abishek R V,Capgemini,7.5
+29,mdm18b005,Ashish Kumar Yadav,Capgemini,7.5
+30,mdm18b020,Karuturi Manohar Sai Krishna,Capgemini,7.5
+31,mdm18b036,Rahul Gopal,Capgemini,7.5
+32,mdm18b055,Vankamamidi Sai Pradyumna,Capgemini,7.5
+33,msm18b018,Naresh Inapasappala,Capgemini,7.5
+34,msm18b021,Abhinay Shriram Kalyankar,Capgemini,7.5
+35,msm18b029,Mahammad Zahiruddin,Capgemini,7.5
+36,msm18b031,Midhun Joy,Capgemini,7.5
+37,msm18b035,P Shankar Saravanan,Capgemini,7.5
+38,msm18b039,Prajjwal Kumar,Capgemini,7.5
+39,msm18b045,Saravana Kumar V,Capgemini,7.5
+40,msm18b052,Venkata Ravi Varma Upputuri,Capgemini,7.5
+41,coe18b015,Devasani Naren,CGI,10.0
+42,edm18b026,Karthika Rajesh,CGI,10.0
+43,edm18b043,Ravirajkumar Puli,CGI,10.0
+44,edm18b046,Shyamakura Ranadeep Reddy,CGI,10.0
+45,edm18b052,Vattam Hemanth Naga Sai Ram,CGI,10.0
+46,mdm18b015,Febin Yohannan Varghese,CGI,10.0
+47,coe18b012,Vivek Kumar Chinthavatla,Cognizant,7.5
+48,coe18b036,Maddhukuri Sri Sai Lakshmi,Cognizant,7.5
+49,coe18b053,Suvvari Rakesh,Cognizant,7.5
+50,coe18b057,Vakkalagadda Pavan Venkata Sai,Cognizant,7.5
+51,edm18b010,Chirag C M,Cognizant,7.5
+52,edm18b014,Gangisetty Sravan Kumar,Cognizant,7.5
+53,edm18b020,Gunnam Geetha Manaswi,Cognizant,7.5
+54,edm18b023,Kalisapudi V S Srikarthik,Cognizant,7.5
+55,edm18b041,Navaas Roshan A,Cognizant,7.5
+56,edm18b045,Settebakthula Yuva Pardha Narasimha,Cognizant,7.5
+57,mdm18b025,Nagella Lahari,Cognizant,7.5
+58,msm18b002,Anumandla Girishanand,Cognizant,7.5
+59,msm18b010,Ch.Madhu Sai Pavan Kumar,Cognizant,7.5
+60,msm18b020,Jeiva H,Cognizant,7.5
+61,msm18b025,K Sai Prudhvitha,Cognizant,7.5
+62,msm18b053,Vankayala Pushpavathi Naga Swarli,Cognizant,7.5
+63,coe18b017,Fathima Nourin N,Cognizant,9.0
+64,coe17b038,Preety Banjare,Cogoport,10.0
+65,coe18b045,G S Santhosh Raghul,Cogoport,10.0
+66,msm18b005,Arunkumaran K,Cogoport,10.0
+67,msm18b013,Dineshkumar Subramanian,Cogoport,10.0
+68,coe18b032,Kunchanapalli Venkata Sai Mahesh,Deloitte,7.5
+69,coe18b055,Syed Mohd Fazal E Abbas Nawaz,Deloitte,7.5
+70,coe18b061,Vinayak Sethi,Deloitte,7.5
+71,edm18b033,Manoj Kumar Jeeru,Deloitte,7.5
+72,edm18b034,Mansi Kandukuri,Deloitte,7.5
+73,edm18b055,Vignesh Nagarajan,Deloitte,7.5
+74,msm18b019,Ruthwik G Javvadi,Deloitte,7.5
+75,msm18b037,Patrick Jeeva A,Deloitte,7.5
+76,msm18b044,Saksham Mishra,Deloitte,7.5
+77,msm18b047,Senthilkumar Sanjana,Deloitte,7.5
+78,coe18b050,Sona Elza Simon,Deloittee,7.5
+79,coe18b018,G V Anurag,Deloittee,8.0
+80,coe18b032,Kunchanapalli Venkata Sai Mahesh,Entrayn,8.0
+81,coe18b042,Pratyush V Moorthy,Ericsson,11.5
+82,coe18b060,Viknesh Rajaramon,Factors.ai,19.0
+83,coe18b043,Shreja Rangarajan,Google,35.0
+84,edm18b026,Karthika Rajesh,HCL,4.0
+85,coe18b015,Devasani Naren,HCL,6.75
+86,coe18b041,Pavendhan N,Hitch Works,11.0
+87,coe18b001,Adesh Reghu Kumar,IBM India,7.5
+88,coe18b027,Jomin Rajesh K,IBM India,7.5
+89,coe18b028,Katepalli Naga Sai Bhargav,IBM India,7.5
+90,coe18b056,Thigulla Vamsi Krishna,IBM India,7.5
+91,edm18b018,Sujitha Govindan,IBM India,7.5
+92,coe18b021,G.Rithik Raj,Indiamart,13.0
+93,coe18b026,Jayanth S,Indiamart,13.0
+94,coe18b032,Kunchanapalli Venkata Sai Mahesh,Indiamart,13.0
+95,coe18b045,G S Santhosh Raghul,Indiamart,13.0
+96,coe18b053,Suvvari Rakesh,Indiamart,13.0
+97,coe18b057,VakkalaGadda Pavan Venkata Sai,Indiamart,13.0
+98,coe18b067,Shashank Dokania,Indiamart,13.0
+99,mdm18b015,Febin Yohannan Varghese,Infosys,5.0
+100,coe18b001,Adesh Reghu Kumar,Infosys,5.5
+101,coe18b037,M K Nanda Sai Kishore,Infosys,5.5
+102,coe18b047,Shanjeev Maruthi,Infosys,5.5
+103,edm18b014,Gangisetty Sravan Kumar,Infosys,5.5
+104,edm18b047,Tulasi Singampalli,Infosys,5.5
+105,mdm18b025,Nagella Lahari,Infosys,5.5
+106,msm18b011,Daggumati Madhumathi,Infosys,5.5
+107,coe18b057,VakkalaGadda Pavan Venkata Sai,Infosys,9.0
+108,coe18b053,Suvvari Rakesh,Infosys,9.5
+109,msm18b017,Harsha Varghese,Innominds,10.0
+110,mdm18b040,S Gopikrishna,Jio Platforms,12.0
+111,mdm18b040,S Gopikrishna,JSW,5.5
+112,edm18b011,Daravath Gopi Naik,Kyndryl GTS,4.5
+113,edm18b020,Gunnam Geetha Manaswi,Kyndryl GTS,4.5
+114,edm18b030,Kota Bholanath,Kyndryl GTS,4.5
+115,edm18b047,Tulasi Singampalli,Kyndryl GTS,4.5
+116,mdm18b043,Shaik Minhaaz Aman,Kyndryl GTS,4.5
+117,mdm18b049,Soorya Sriram,LatentView,6.5
+118,edm18b050,Soorampalli Sree Varshit,LTI,6.5
+119,coe18b029,Katte Prahlad Gowtham,MathWorks,19.0
+120,coe18b051,Sreedhar Arumugam,MathWorks,19.0
+121,coe18b064,Mihir Shri,MathWorks,19.0
+122,edm18b022,Jonnalagadda Ranga Rakesh,Maviner,8.0
+123,coe18b006,Ashwin B S,MaxiML,12.0
+124,msm18b019,Ruthwik G Javvadi,MaxiML,12.0
+125,coe18b027,Jomin Rajesh K,Mbit Wireless,7.5
+126,edm18b006,Bankulla Sachit Reddy,Mbit Wireless,7.5
+127,edm18b007,Bhogi Karthik,Mbit Wireless,7.5
+128,edm18b017,Gorripoti Nikhileswar,Mbit Wireless,7.5
+129,edm18b017,Gorripoti Nikhileswar,Mbit Wireless,7.5
+130,edm18b022,Jonnalagadda Ranga Rakesh,Mbit Wireless,7.5
+131,edm18b024,Karanam Sreedhar Sai Thilak,Mbit Wireless,7.5
+132,edm18b032,Malli Chenchu Kiran,Mbit Wireless,7.5
+133,coe18b037,M K Nanda Sai Kishore,Multicoreware Inc,12.0
+134,coe18b033,Logeshwaran T,PK Global,8.0
+135,edm18b058,Balaraju Tharun Kumar,PK Global,8.0
+136,mdm18b028,PM Kavya Ssree,PK Global,8.0
+137,msm18b017,Harsha Varghese,PK Global,8.0
+138,msm18b020,Jeiva H,PK Global,8.0
+139,msm18b025,K Sai Prudhvitha,PK Global,8.0
+140,msm18b056,Bhanu Teja Bale,PK Global,8.0
+141,coe18b005,Aparajith Raghuvir,Publicis Sapient,9.0
+142,coe18b024,Hrishikesh Rajesh Menon,Publicis Sapient,9.0
+143,coe18b048,Shresta M,Publicis Sapient,9.0
+144,coe18b062,Shubham Karwa,Publicis Sapient,9.0
+145,edm18b048,Singavarapu Rathan Jayanath,Publicis Sapient,9.0
+146,edm18b016,Gedala Girish Naga Sai Ram,Quantrium,9.0
+147,coe18b004,Anant Patel,Quantrium,10.1
+148,coe18b007,B Bavesh,Quantrium,10.1
+149,coe18b016,Devathoti Teja Shree,Quantrium,10.1
+150,msm18b030,Manthripragada Venkata Ramarao,Quantrium,10.1
+151,coe18b050,Sona Elza Simon,Quantrium,9.5
+152,edm18b005,Banda Venkata Sai Surya Shanmukha Hrushik,Rythmos Private Limited,4.5
+153,edm18b027,Ramya Kaveri,Saint-Gobain,6.3
+154,mdm18b006,Ashwini A Kumar,Saint-Gobain,6.3
+155,mdm18b062,M.Aditya,Saint-Gobain,6.3
+156,coe18b029,Katte Prahlad Gowtham,Start Smart Labs,11.0
+157,coe18b039,Naidu Vishnu Sree Siri,Start Smart Labs,11.0
+158,coe18b059,Vemula Lakshmi Srinivas,Start Smart Labs,11.0
+159,coe18b012,Vivek Kumar Chinthavatla,TCS,9.0
+160,coe18b012,Vivek Kumar Chinthavatla,TCS,9.0
+161,coe18b017,Fathima Nourin N,TCS,9.0
+162,coe18b030,Kommuru Jaswanth Reddy,TCS,9.0
+163,edm18b014,Gangisetty Sravan Kumar,TCS,9.0
+164,edm18b044,Sai Nrusimha Deepak Burra,TCS,9.0
+165,edm18b045,Settebakthula Yuva Pardha Narasimha,TCS,9.0
+166,mdm18b053,Thangallapally Sreenithya,TCS,9.0
+167,mdm18b062,M.Aditya,TCS,9.0
+168,msm18b053,Vankayala Pushpavathi Naga Swarli,TCS,9.0
+169,msm18b024,Karthikeyan M,TII,8.2
+170,edm18b007,Bhogi Karthik,Virtusa campus,11.0
+171,edm18b053,Eswar Vinnakota,Virtusa campus,11.0
+172,coe18b008,Bhukya Naveen,Zensar,7.5
+173,mdm18b053,Thangallapally Sreenithya,Zensar,7.5
+174,edm18b044,Sai Nrusimha Deepak Burra,Zentron,9.0
+175,coe18b017,Fathima Nourin N,Zentron,11.0
+176,coe18b006,Ashwin B S,Zoom,28.0
+177,coe18b047,Shanjeev Maruthi,Zoom,28.0
+178,coe18b065,Srinivasan Sharma,Zoom,28.0
